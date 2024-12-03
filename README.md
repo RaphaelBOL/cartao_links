@@ -1,4 +1,4 @@
-# Previsão do Tempo - Projeto de Algoritmo e Lógica de Programação
+# Cartão de Links Digitais - Sindpetshop-SP
 
 ![Capa do Projeto](assets/imgs/cartão%20sindpetshop.png)
 
@@ -30,7 +30,7 @@ O objetivo deste projeto foi desenvolver um Cartão de Links Digitais personaliz
 
 2. Navegue até a pasta do projeto
   ```bash
-  cd "LINKS_DIGITAIS_SINDPETSHOP"
+  cd links_digitais_sindpetshop
   ```
 
 3. Abra o arquivo index.html em um navegador para visualizar o site.
